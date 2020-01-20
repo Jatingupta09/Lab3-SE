@@ -1,4 +1,1 @@
-  // THIS IS THE BUBBLE SORTING ALGORITHUM//
-  
-  
-  Output:  1 2 3 4 5 6 
+ BUBBLE SORT
